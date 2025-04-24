@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAODsYr+NPHkGsHbk/NcYtqQAAAAACAAAAAAAQZgAAAAEAACAAAADFGQkT+fzHtGErTlegYf5shmztog/qL9/Krbpe5IZaOgAAAAAOgAAAAAIAACAAAABlDJBM1T64dso+MRUHyDLjawOY+S6KRz6QXg9S91+aiSAAAABK/vCubSlVKE5hXEkYHrxL2k8tX3X81ZQY6s1+D5PLB0AAAABeEI5UAH6osXGglk5+L0tZo6ElgPl7lY2PhJD5kIwpXRdMj/QeAPbuWFP6og73H45nUo8qCiEBk99OBDjVbZ9A</EncryptedPassword>
+    <History>True|2025-03-07T08:59:37.2886867Z||;True|2025-03-07T10:38:34.5318737+02:00||;True|2025-03-07T10:31:55.9273284+02:00||;True|2025-03-07T09:36:03.3324505+02:00||;True|2025-03-07T09:19:44.9703811+02:00||;True|2025-03-06T17:00:19.3905386+02:00||;True|2025-03-06T16:34:31.2088717+02:00||;True|2025-03-06T15:27:57.3227521+02:00||;True|2025-03-05T05:28:12.5970911+02:00||;True|2025-03-05T05:23:02.2618445+02:00||;True|2024-12-10T00:10:14.4721876+02:00||;True|2024-12-09T23:28:01.3402727+02:00||;True|2024-12-09T23:18:49.8950643+02:00||;True|2024-12-09T22:59:40.4808920+02:00||;False|2024-12-09T22:56:40.1631517+02:00||;True|2024-12-09T22:20:22.1030465+02:00||;True|2024-12-09T22:19:08.3828317+02:00||;True|2024-12-09T21:41:05.0072795+02:00||;True|2024-12-09T21:01:47.6740591+02:00||;True|2024-12-09T20:28:07.2829978+02:00||;True|2024-12-09T20:06:48.1678793+02:00||;True|2024-12-09T19:27:16.4562767+02:00||;True|2024-12-09T19:15:10.3440917+02:00||;True|2024-12-09T19:06:32.6377593+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=db10841.public.databaseasp.net%3b Database=db10841%3b User Id=db10841%3b Password=9Kk%40#7Am2p+B%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

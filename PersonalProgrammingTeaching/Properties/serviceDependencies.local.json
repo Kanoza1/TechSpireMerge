@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "ignored": "true",
+      "type": "identityapp"
+    },
+    "secrets1": {
+      "type": "secrets.user",
+      "dynamicId": null
+    }
+  }
+}
